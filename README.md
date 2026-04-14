@@ -35,12 +35,8 @@ netflix-streamlit-dashboard/
 
 ---
 
-## ▶️ Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
+## 🚀 Live Demo
+[View Dashboard](https://netflix-app-dashboard-2mbjxjz4gv2gzy4j75jd9b.streamlit.app/)
 
 ---
 
