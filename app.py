@@ -98,7 +98,7 @@ c1, c2, c3, c4 = st.columns(4)
 
 c1.markdown(f"<div class='card'><h2>{len(filtered_df)}</h2><p>Total Titles</p></div>", unsafe_allow_html=True)
 c2.markdown(f"<div class='card'><h2>{len(filtered_df[filtered_df['type']=='Movie'])}</h2><p>Movies</p></div>", unsafe_allow_html=True)
-c3.markdown(f"<div class='card'><h2>{len(filtered_df[filtered_df['type']=='TV Show'])}</h2><p>TV Shows</p></div>", unsafe_allow_html=True)
+c3.markdown(f"<div class='card'><h2>{len(filtered_df[filtered_df['type']=='Tv Show'])}</h2><p>TV Shows</p></div>", unsafe_allow_html=True)
 c4.markdown(f"<div class='card'><h2>{filtered_df['country'].nunique()}</h2><p>Countries</p></div>", unsafe_allow_html=True)
 
 # ---------------- SECTION 1 ----------------
