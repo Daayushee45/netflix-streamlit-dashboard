@@ -42,4 +42,4 @@ netflix-streamlit-dashboard/
 
 ## 📊 Dataset
 
-🔗 [Netflix Dataset](01_Dataset/Netflix_Titles.csv)
+🔗 [Netflix Dataset](netflix_cleaned.csv)
