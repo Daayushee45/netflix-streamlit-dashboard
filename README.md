@@ -42,4 +42,4 @@ netflix-streamlit-dashboard/
 
 ## 📊 Dataset
 
-Netflix dataset from Kaggle.
+🔗 [Netflix Dataset](01_Dataset/Netflix_Titles.csv)
